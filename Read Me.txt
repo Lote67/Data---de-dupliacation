@@ -1,0 +1,1 @@
+This python script removes duplicate data entries due to the natting process on capturing information on external vlan
